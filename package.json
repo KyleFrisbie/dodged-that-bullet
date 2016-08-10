@@ -1,0 +1,19 @@
+{
+  "name": "dodged-that-bullet",
+  "version": "1.0.0",
+  "description": "Fun webpage for people to talk about the 'bullets' they've dodged!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyleFrisbie/dodged-that-bullet.git"
+  },
+  "author": "Kyle L Frisbie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KyleFrisbie/dodged-that-bullet/issues"
+  },
+  "homepage": "https://github.com/KyleFrisbie/dodged-that-bullet#readme"
+}
