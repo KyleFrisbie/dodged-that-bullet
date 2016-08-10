@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/KyleFrisbie/dodged-that-bullet/issues"
   },
-  "homepage": "https://github.com/KyleFrisbie/dodged-that-bullet#readme"
+  "homepage": "https://github.com/KyleFrisbie/dodged-that-bullet#readme",
+  "devDependencies": {
+    "eslint": "^3.2.2",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^3.0.1",
+    "gulp-mocha": "^3.0.0",
+    "gulp-util": "^3.0.7"
+  }
 }
